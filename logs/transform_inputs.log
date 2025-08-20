@@ -1,5 +1,0 @@
-2025-08-19 15:30:00,475 INFO Starting transform_inputs; project root = /Users/riteshlokhande/PycharmProjects/Gemini-QA
-2025-08-19 15:30:00,475 ERROR Missing data/config.yaml at /Users/riteshlokhande/PycharmProjects/Gemini-QA/data/config.yaml
-2025-08-19 15:30:23,365 INFO Starting transform_inputs; project root = /Users/riteshlokhande/PycharmProjects/Gemini-QA
-2025-08-19 15:30:23,369 INFO Loaded 100 payments, 8 questions, and controls: ['authorized_approvers', 'allowed_currencies', 'valid_statuses', 'vendor_whitelist']
-2025-08-19 15:30:23,372 INFO Wrote 100 enriched records to /Users/riteshlokhande/PycharmProjects/Gemini-QA/data/qa_inference_inputs.json
