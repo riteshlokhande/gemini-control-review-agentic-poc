@@ -1,0 +1,218 @@
+2025-08-19 15:09:24,773 [INFO] Starting generate_payment_and_qa; project_root=/Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 15:10:05,119 [INFO] Starting generate_payment_and_qa; project_root=/Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 15:12:37,837 [INFO] Starting generate_payment_and_qa; project_root=/Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 15:13:34,707 [INFO] Starting generate_payment_and_qa; project_root=/Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 15:13:34,710 [INFO] Generating 100 synthetic payment records
+2025-08-19 15:13:55,602 [INFO] Starting generate_payment_and_qa; project_root=/Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 15:13:55,607 [INFO] Generating 100 synthetic payment records
+2025-08-19 15:14:37,744 [INFO] Starting generate_payment_and_qa; project_root=/Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 15:14:37,748 [INFO] Generating 100 synthetic payment records
+2025-08-19 15:16:23,711 [INFO] Starting generate_payment_and_qa; project_root=/Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 15:16:23,715 [INFO] Generating 100 synthetic payment records
+2025-08-19 15:17:28,303 [INFO] Starting generate_payment_and_qa; project_root=/Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 15:17:28,305 [INFO] Generating 100 synthetic payment records
+2025-08-19 15:17:28,307 [INFO] Wrote 100 synthetic records → /Users/riteshlokhande/PycharmProjects/Gemini-QA/data/synthetic_payments.json
+2025-08-19 15:17:49,819 [INFO] Starting generate_payment_and_qa; project_root=/Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 15:17:49,822 [INFO] Generating 100 synthetic payment records
+2025-08-19 15:17:49,824 [INFO] Wrote 100 synthetic records → /Users/riteshlokhande/PycharmProjects/Gemini-QA/data/synthetic_payments.json
+2025-08-19 15:17:54,251 [INFO] Gemini call for c3d0a7d6-1a6f-4786-8777-5e7ee751b2e5 took 4.43 sec
+2025-08-19 15:17:54,252 [INFO] Recorded 8 answers for c3d0a7d6-1a6f-4786-8777-5e7ee751b2e5
+2025-08-19 15:17:57,890 [INFO] Gemini call for 7ca00746-350b-478f-a6b4-c721d46edef9 took 8.07 sec
+2025-08-19 15:17:57,891 [INFO] Recorded 8 answers for 7ca00746-350b-478f-a6b4-c721d46edef9
+2025-08-19 15:17:57,901 [INFO] Gemini call for a9cfc34c-632f-455a-8760-de9097413443 took 8.08 sec
+2025-08-19 15:17:57,902 [INFO] Recorded 8 answers for a9cfc34c-632f-455a-8760-de9097413443
+2025-08-19 15:17:59,164 [INFO] Gemini call for 977d094f-3fae-4142-ab07-07e0d3f8ae7a took 4.91 sec
+2025-08-19 15:17:59,165 [INFO] Recorded 8 answers for 977d094f-3fae-4142-ab07-07e0d3f8ae7a
+2025-08-19 15:17:59,222 [INFO] Gemini call for d6dccf28-f243-4258-aa3a-9ef54f47cce3 took 9.40 sec
+2025-08-19 15:17:59,224 [INFO] Recorded 8 answers for d6dccf28-f243-4258-aa3a-9ef54f47cce3
+2025-08-19 15:18:01,842 [INFO] Gemini call for b30f6220-1e77-4860-b517-71f45c865d81 took 3.95 sec
+2025-08-19 15:18:01,843 [INFO] Recorded 8 answers for b30f6220-1e77-4860-b517-71f45c865d81
+2025-08-19 15:18:02,442 [INFO] Gemini call for 53695837-ffdd-449c-ba5b-799492f1c115 took 4.54 sec
+2025-08-19 15:18:02,443 [INFO] Recorded 8 answers for 53695837-ffdd-449c-ba5b-799492f1c115
+2025-08-19 15:18:02,645 [INFO] Gemini call for 82122f00-09eb-45e6-a02f-7ba514f6d77f took 12.82 sec
+2025-08-19 15:18:02,646 [INFO] Recorded 8 answers for 82122f00-09eb-45e6-a02f-7ba514f6d77f
+2025-08-19 15:18:03,159 [INFO] Gemini call for 81ede458-9478-4a40-944f-87db8c6495e0 took 3.99 sec
+2025-08-19 15:18:03,160 [INFO] Recorded 8 answers for 81ede458-9478-4a40-944f-87db8c6495e0
+2025-08-19 15:18:03,192 [INFO] Gemini call for 701c88c4-57be-4c5c-b455-165395760b50 took 3.97 sec
+2025-08-19 15:18:03,193 [INFO] Recorded 8 answers for 701c88c4-57be-4c5c-b455-165395760b50
+2025-08-19 15:18:04,490 [INFO] Gemini call for 3de3b0c3-02bf-4c52-81b2-b7d646eecf7a took 2.65 sec
+2025-08-19 15:18:04,490 [INFO] Recorded 8 answers for 3de3b0c3-02bf-4c52-81b2-b7d646eecf7a
+2025-08-19 15:18:05,801 [INFO] Gemini call for 46340876-672f-40ec-beaf-6c9a8b30034b took 3.36 sec
+2025-08-19 15:18:05,803 [INFO] Recorded 8 answers for 46340876-672f-40ec-beaf-6c9a8b30034b
+2025-08-19 15:18:06,339 [INFO] Gemini call for 37882c54-a9e8-4442-8758-47336167bf7a took 3.69 sec
+2025-08-19 15:18:06,341 [INFO] Recorded 8 answers for 37882c54-a9e8-4442-8758-47336167bf7a
+2025-08-19 15:18:06,613 [INFO] Gemini call for 063c6f8f-047c-4cc7-bf32-32d194334e12 took 3.45 sec
+2025-08-19 15:18:06,614 [INFO] Recorded 8 answers for 063c6f8f-047c-4cc7-bf32-32d194334e12
+2025-08-19 15:18:07,007 [INFO] Gemini call for c3cb8855-c338-4461-877a-9f744c75f30e took 3.82 sec
+2025-08-19 15:18:07,009 [INFO] Recorded 8 answers for c3cb8855-c338-4461-877a-9f744c75f30e
+2025-08-19 15:18:07,198 [INFO] Gemini call for c60651a8-9214-42ca-ba23-2a7615b8b68a took 2.71 sec
+2025-08-19 15:18:07,199 [INFO] Recorded 8 answers for c60651a8-9214-42ca-ba23-2a7615b8b68a
+2025-08-19 15:18:08,484 [INFO] Gemini call for c244684a-ae08-4f0a-acd8-ca2262740e91 took 2.68 sec
+2025-08-19 15:18:08,485 [INFO] Recorded 8 answers for c244684a-ae08-4f0a-acd8-ca2262740e91
+2025-08-19 15:18:09,814 [INFO] Gemini call for 358d4feb-a888-4faa-84b7-6693d9550ca2 took 3.47 sec
+2025-08-19 15:18:09,814 [INFO] Recorded 8 answers for 358d4feb-a888-4faa-84b7-6693d9550ca2
+2025-08-19 15:18:10,139 [INFO] Gemini call for 2d9503f0-e2e5-4d98-bb33-fe96e2b79215 took 3.53 sec
+2025-08-19 15:18:10,140 [INFO] Recorded 8 answers for 2d9503f0-e2e5-4d98-bb33-fe96e2b79215
+2025-08-19 15:18:10,588 [INFO] Gemini call for d46fafc6-e5c9-4ae0-aa9f-d54f93335a09 took 3.58 sec
+2025-08-19 15:18:10,589 [INFO] Recorded 8 answers for d46fafc6-e5c9-4ae0-aa9f-d54f93335a09
+2025-08-19 15:18:12,064 [INFO] Gemini call for 9c4bb2b0-0988-4c43-bf1d-ab188e585b4d took 4.87 sec
+2025-08-19 15:18:12,066 [INFO] Recorded 8 answers for 9c4bb2b0-0988-4c43-bf1d-ab188e585b4d
+2025-08-19 15:18:12,582 [INFO] Gemini call for 639337f0-b3c8-4063-a852-7b1b26681fe5 took 4.10 sec
+2025-08-19 15:18:12,583 [INFO] Recorded 8 answers for 639337f0-b3c8-4063-a852-7b1b26681fe5
+2025-08-19 15:18:12,586 [INFO] Gemini call for 9a3d7dc7-cea6-409a-8891-f75ce1dd4688 took 2.77 sec
+2025-08-19 15:18:12,586 [INFO] Recorded 8 answers for 9a3d7dc7-cea6-409a-8891-f75ce1dd4688
+2025-08-19 15:18:14,193 [INFO] Gemini call for 9da40395-9e8d-46c9-a181-75af88713a36 took 4.05 sec
+2025-08-19 15:18:14,194 [INFO] Recorded 8 answers for 9da40395-9e8d-46c9-a181-75af88713a36
+2025-08-19 15:18:14,495 [INFO] Gemini call for 606a67ee-339a-4280-a0d4-3d74d21639c6 took 3.91 sec
+2025-08-19 15:18:14,496 [INFO] Recorded 8 answers for 606a67ee-339a-4280-a0d4-3d74d21639c6
+2025-08-19 15:18:15,877 [INFO] Gemini call for fb67605a-77ab-4f58-b423-a7a9bf4455b8 took 3.81 sec
+2025-08-19 15:18:15,878 [INFO] Recorded 8 answers for fb67605a-77ab-4f58-b423-a7a9bf4455b8
+2025-08-19 15:18:16,002 [INFO] Gemini call for aca9a7ec-16b2-4cb7-8664-893327a4442b took 3.42 sec
+2025-08-19 15:18:16,004 [INFO] Recorded 8 answers for aca9a7ec-16b2-4cb7-8664-893327a4442b
+2025-08-19 15:18:16,856 [INFO] Gemini call for b863f7c1-2ae8-46c0-abb7-f7ad1e64f342 took 4.27 sec
+2025-08-19 15:18:16,858 [INFO] Recorded 8 answers for b863f7c1-2ae8-46c0-abb7-f7ad1e64f342
+2025-08-19 15:18:17,996 [INFO] Gemini call for 1be84322-5dd8-4ed3-af92-004842bad3f5 took 3.50 sec
+2025-08-19 15:18:17,997 [INFO] Recorded 8 answers for 1be84322-5dd8-4ed3-af92-004842bad3f5
+2025-08-19 15:18:18,579 [INFO] Gemini call for 967d99bf-8f28-4319-9eaf-6488a8971b25 took 2.70 sec
+2025-08-19 15:18:18,580 [INFO] Recorded 8 answers for 967d99bf-8f28-4319-9eaf-6488a8971b25
+2025-08-19 15:18:19,823 [INFO] Gemini call for 39c00e92-3b4e-4c84-9749-535fc3e1c24f took 5.63 sec
+2025-08-19 15:18:19,824 [INFO] Recorded 8 answers for 39c00e92-3b4e-4c84-9749-535fc3e1c24f
+2025-08-19 15:18:19,890 [INFO] Gemini call for 006cfd86-0713-4c4f-8b0b-f1b47af06b41 took 3.03 sec
+2025-08-19 15:18:19,891 [INFO] Recorded 8 answers for 006cfd86-0713-4c4f-8b0b-f1b47af06b41
+2025-08-19 15:18:19,918 [INFO] Gemini call for edf4c67c-a1b1-4577-9875-4a67a9027d60 took 3.91 sec
+2025-08-19 15:18:19,919 [INFO] Recorded 8 answers for edf4c67c-a1b1-4577-9875-4a67a9027d60
+2025-08-19 15:18:20,834 [INFO] Gemini call for 888ecd5f-128f-4a2c-ac89-258d0ba89ccd took 2.84 sec
+2025-08-19 15:18:20,835 [INFO] Recorded 8 answers for 888ecd5f-128f-4a2c-ac89-258d0ba89ccd
+2025-08-19 15:18:22,102 [INFO] Gemini call for df26204d-0aea-4bff-bcc5-2449357539d5 took 3.52 sec
+2025-08-19 15:18:22,103 [INFO] Recorded 8 answers for df26204d-0aea-4bff-bcc5-2449357539d5
+2025-08-19 15:18:22,717 [INFO] Gemini call for 335449d6-906f-4f48-8714-bbea3d5d99f8 took 2.89 sec
+2025-08-19 15:18:22,719 [INFO] Recorded 8 answers for 335449d6-906f-4f48-8714-bbea3d5d99f8
+2025-08-19 15:18:23,741 [INFO] Gemini call for 9da672b4-ae24-4c06-98c1-d20d09f98829 took 3.85 sec
+2025-08-19 15:18:23,743 [INFO] Recorded 8 answers for 9da672b4-ae24-4c06-98c1-d20d09f98829
+2025-08-19 15:18:23,743 [INFO] Gemini call for 74b02e78-9401-4088-8a7f-1ec4dcda58f9 took 2.91 sec
+2025-08-19 15:18:23,744 [INFO] Recorded 8 answers for 74b02e78-9401-4088-8a7f-1ec4dcda58f9
+2025-08-19 15:18:23,894 [INFO] Gemini call for 6db252db-84ea-4cf7-ae01-07fdc176ad62 took 3.98 sec
+2025-08-19 15:18:23,895 [INFO] Recorded 8 answers for 6db252db-84ea-4cf7-ae01-07fdc176ad62
+2025-08-19 15:18:25,824 [INFO] Gemini call for 142d473a-bf40-48dd-97c2-6b7eed4b8542 took 3.72 sec
+2025-08-19 15:18:25,826 [INFO] Recorded 8 answers for 142d473a-bf40-48dd-97c2-6b7eed4b8542
+2025-08-19 15:18:26,549 [INFO] Gemini call for 5df9173c-b7e2-4913-87dd-16f48bbc34e7 took 3.83 sec
+2025-08-19 15:18:26,549 [INFO] Recorded 8 answers for 5df9173c-b7e2-4913-87dd-16f48bbc34e7
+2025-08-19 15:18:27,228 [INFO] Gemini call for 7d27bb95-5d0e-4870-8fdf-1ed5e59cfca8 took 3.49 sec
+2025-08-19 15:18:27,229 [INFO] Recorded 8 answers for 7d27bb95-5d0e-4870-8fdf-1ed5e59cfca8
+2025-08-19 15:18:27,661 [INFO] Gemini call for 9d46d655-b8c1-4f66-b409-6c3fa0a8afba took 3.92 sec
+2025-08-19 15:18:27,662 [INFO] Recorded 8 answers for 9d46d655-b8c1-4f66-b409-6c3fa0a8afba
+2025-08-19 15:18:27,776 [INFO] Gemini call for c1226a80-6962-4310-8a24-8e9ad7475586 took 3.88 sec
+2025-08-19 15:18:27,777 [INFO] Recorded 8 answers for c1226a80-6962-4310-8a24-8e9ad7475586
+2025-08-19 15:18:28,487 [INFO] Gemini call for 5616e9dd-084c-4c6c-8a13-ca3dd878a085 took 2.66 sec
+2025-08-19 15:18:28,488 [INFO] Recorded 8 answers for 5616e9dd-084c-4c6c-8a13-ca3dd878a085
+2025-08-19 15:18:29,639 [INFO] Gemini call for 28055307-9f1c-4699-a67e-44e0966be369 took 3.09 sec
+2025-08-19 15:18:29,640 [INFO] Recorded 8 answers for 28055307-9f1c-4699-a67e-44e0966be369
+2025-08-19 15:18:30,435 [INFO] Gemini call for 43e80d97-da2d-4f7e-8a21-85136c065987 took 3.21 sec
+2025-08-19 15:18:30,436 [INFO] Recorded 8 answers for 43e80d97-da2d-4f7e-8a21-85136c065987
+2025-08-19 15:18:31,223 [INFO] Gemini call for 755a0fc5-1ff1-4271-b3c2-7c4390e5d21e took 3.56 sec
+2025-08-19 15:18:31,225 [INFO] Recorded 8 answers for 755a0fc5-1ff1-4271-b3c2-7c4390e5d21e
+2025-08-19 15:18:31,502 [INFO] Gemini call for 4646aa6e-e4b0-4ee5-8c38-809aac313e41 took 3.73 sec
+2025-08-19 15:18:31,503 [INFO] Recorded 8 answers for 4646aa6e-e4b0-4ee5-8c38-809aac313e41
+2025-08-19 15:18:31,584 [INFO] Gemini call for 39071f40-f751-41ff-81fb-848673df5df6 took 3.10 sec
+2025-08-19 15:18:31,584 [INFO] Recorded 8 answers for 39071f40-f751-41ff-81fb-848673df5df6
+2025-08-19 15:18:32,344 [INFO] Gemini call for 1a1b6d99-b202-467b-a6bc-d6b45e4861df took 2.70 sec
+2025-08-19 15:18:32,346 [INFO] Recorded 8 answers for 1a1b6d99-b202-467b-a6bc-d6b45e4861df
+2025-08-19 15:18:35,210 [INFO] Gemini call for fbe18923-66f3-4cfd-8ea5-6cddae949ede took 4.77 sec
+2025-08-19 15:18:35,211 [INFO] Recorded 8 answers for fbe18923-66f3-4cfd-8ea5-6cddae949ede
+2025-08-19 15:18:35,312 [INFO] Gemini call for 801b5db6-90b4-4880-a390-87b56263f28d took 4.09 sec
+2025-08-19 15:18:35,313 [INFO] Recorded 8 answers for 801b5db6-90b4-4880-a390-87b56263f28d
+2025-08-19 15:18:35,723 [INFO] Gemini call for 3db20f11-8881-41f8-acae-30d0f8286892 took 4.22 sec
+2025-08-19 15:18:35,723 [INFO] Recorded 8 answers for 3db20f11-8881-41f8-acae-30d0f8286892
+2025-08-19 15:18:35,925 [INFO] Gemini call for 3bf96a34-e26d-4f2c-96d7-36d013cf90d8 took 4.34 sec
+2025-08-19 15:18:35,926 [INFO] Recorded 8 answers for 3bf96a34-e26d-4f2c-96d7-36d013cf90d8
+2025-08-19 15:18:36,013 [INFO] Gemini call for f6fcaf4c-6d28-4bef-a4d9-8a6a233c5b93 took 3.67 sec
+2025-08-19 15:18:36,014 [INFO] Recorded 8 answers for f6fcaf4c-6d28-4bef-a4d9-8a6a233c5b93
+2025-08-19 15:18:38,206 [INFO] Gemini call for 4250e2e4-606a-4cce-83b5-316e10a31f62 took 3.00 sec
+2025-08-19 15:18:38,207 [INFO] Recorded 8 answers for 4250e2e4-606a-4cce-83b5-316e10a31f62
+2025-08-19 15:18:39,094 [INFO] Gemini call for 9b042215-03b0-43da-b284-dc4db58e60b0 took 3.78 sec
+2025-08-19 15:18:39,095 [INFO] Recorded 8 answers for 9b042215-03b0-43da-b284-dc4db58e60b0
+2025-08-19 15:18:39,394 [INFO] Gemini call for 707c2b90-7aae-442a-956b-35427123e5c0 took 3.67 sec
+2025-08-19 15:18:39,395 [INFO] Recorded 8 answers for 707c2b90-7aae-442a-956b-35427123e5c0
+2025-08-19 15:18:39,594 [INFO] Gemini call for aa5c9a16-26d8-43da-b34f-8b8649c156f0 took 3.67 sec
+2025-08-19 15:18:39,596 [INFO] Recorded 8 answers for aa5c9a16-26d8-43da-b34f-8b8649c156f0
+2025-08-19 15:18:40,911 [INFO] Gemini call for adac6ded-0850-422f-8fa7-7100ef799a10 took 2.70 sec
+2025-08-19 15:18:40,912 [INFO] Recorded 8 answers for adac6ded-0850-422f-8fa7-7100ef799a10
+2025-08-19 15:18:41,456 [INFO] Gemini call for 5eaf8676-8fb1-4aa8-86ef-a77478193d23 took 5.44 sec
+2025-08-19 15:18:41,457 [INFO] Recorded 8 answers for 5eaf8676-8fb1-4aa8-86ef-a77478193d23
+2025-08-19 15:18:42,401 [INFO] Gemini call for 53968181-7443-48ae-8dfb-109ef98fd8d1 took 3.31 sec
+2025-08-19 15:18:42,402 [INFO] Recorded 8 answers for 53968181-7443-48ae-8dfb-109ef98fd8d1
+2025-08-19 15:18:42,956 [INFO] Gemini call for 6bdc1d20-7e84-4c1c-a90a-b3cbaefaacff took 3.56 sec
+2025-08-19 15:18:42,957 [INFO] Recorded 8 answers for 6bdc1d20-7e84-4c1c-a90a-b3cbaefaacff
+2025-08-19 15:18:43,401 [INFO] Gemini call for 4d4df232-e391-453f-aa66-757594859d9e took 3.81 sec
+2025-08-19 15:18:43,402 [INFO] Recorded 8 answers for 4d4df232-e391-453f-aa66-757594859d9e
+2025-08-19 15:18:44,116 [INFO] Gemini call for c014b546-bfb3-4baa-a671-5dabf818edd1 took 3.20 sec
+2025-08-19 15:18:44,117 [INFO] Recorded 8 answers for c014b546-bfb3-4baa-a671-5dabf818edd1
+2025-08-19 15:18:44,744 [INFO] Gemini call for a3dc4533-7b7a-4003-ab3c-6707644d558b took 3.29 sec
+2025-08-19 15:18:44,745 [INFO] Recorded 8 answers for a3dc4533-7b7a-4003-ab3c-6707644d558b
+2025-08-19 15:18:45,244 [INFO] Gemini call for d23aab06-a700-4027-8e10-1b1e9c1d2745 took 2.84 sec
+2025-08-19 15:18:45,245 [INFO] Recorded 8 answers for d23aab06-a700-4027-8e10-1b1e9c1d2745
+2025-08-19 15:18:46,540 [INFO] Gemini call for eae054cf-8d09-48bd-9846-c179f24f9ea6 took 3.58 sec
+2025-08-19 15:18:46,541 [INFO] Recorded 8 answers for eae054cf-8d09-48bd-9846-c179f24f9ea6
+2025-08-19 15:18:46,840 [INFO] Gemini call for 054ba5e2-1458-48d6-99d3-68bad543a531 took 3.44 sec
+2025-08-19 15:18:46,841 [INFO] Recorded 8 answers for 054ba5e2-1458-48d6-99d3-68bad543a531
+2025-08-19 15:18:47,431 [INFO] Gemini call for a685bd75-e21b-4213-b2bc-14257a54e087 took 3.31 sec
+2025-08-19 15:18:47,431 [INFO] Recorded 8 answers for a685bd75-e21b-4213-b2bc-14257a54e087
+2025-08-19 15:18:47,912 [INFO] Gemini call for 9e7560c1-6535-45e7-b8a8-c2bfa46afef5 took 3.17 sec
+2025-08-19 15:18:47,913 [INFO] Recorded 8 answers for 9e7560c1-6535-45e7-b8a8-c2bfa46afef5
+2025-08-19 15:18:48,726 [INFO] Gemini call for aa7d9639-5b24-4597-953c-c5d872080773 took 3.48 sec
+2025-08-19 15:18:48,727 [INFO] Recorded 8 answers for aa7d9639-5b24-4597-953c-c5d872080773
+2025-08-19 15:18:49,237 [INFO] Gemini call for 9afae09d-eeae-4a22-95e1-73f48e2112a4 took 2.70 sec
+2025-08-19 15:18:49,238 [INFO] Recorded 8 answers for 9afae09d-eeae-4a22-95e1-73f48e2112a4
+2025-08-19 15:18:50,309 [INFO] Gemini call for 3abaea34-153e-45a6-8806-0c0d2f6c35de took 3.47 sec
+2025-08-19 15:18:50,310 [INFO] Recorded 8 answers for 3abaea34-153e-45a6-8806-0c0d2f6c35de
+2025-08-19 15:18:51,081 [INFO] Gemini call for 1458107b-7230-4138-b06c-1905995e192b took 3.65 sec
+2025-08-19 15:18:51,082 [INFO] Recorded 8 answers for 1458107b-7230-4138-b06c-1905995e192b
+2025-08-19 15:18:52,021 [INFO] Gemini call for 0fbd468b-de66-45e9-b1d4-ce096edb550e took 4.11 sec
+2025-08-19 15:18:52,022 [INFO] Recorded 8 answers for 0fbd468b-de66-45e9-b1d4-ce096edb550e
+2025-08-19 15:18:52,763 [INFO] Gemini call for 105be53c-fe58-4ac8-826c-662f31207d9c took 3.53 sec
+2025-08-19 15:18:52,764 [INFO] Recorded 8 answers for 105be53c-fe58-4ac8-826c-662f31207d9c
+2025-08-19 15:18:52,801 [INFO] Gemini call for 52c0d901-694b-4ffc-b621-651a1ec992d8 took 4.07 sec
+2025-08-19 15:18:52,801 [INFO] Recorded 8 answers for 52c0d901-694b-4ffc-b621-651a1ec992d8
+2025-08-19 15:18:54,634 [INFO] Gemini call for 6b8257f7-afcc-4c49-980b-6ebf5b0bfb97 took 3.55 sec
+2025-08-19 15:18:54,636 [INFO] Recorded 8 answers for 6b8257f7-afcc-4c49-980b-6ebf5b0bfb97
+2025-08-19 15:18:54,773 [INFO] Gemini call for e2d4c7f2-cbfc-4ea1-b3d2-ec0b32394167 took 4.46 sec
+2025-08-19 15:18:54,774 [INFO] Recorded 8 answers for e2d4c7f2-cbfc-4ea1-b3d2-ec0b32394167
+2025-08-19 15:18:54,896 [INFO] Gemini call for 9d01717f-8012-48af-98a0-9ce6cb8fccc2 took 2.87 sec
+2025-08-19 15:18:54,897 [INFO] Recorded 8 answers for 9d01717f-8012-48af-98a0-9ce6cb8fccc2
+2025-08-19 15:18:55,958 [INFO] Gemini call for 01d2abc4-980b-4f6d-88e9-1ae8b934756d took 3.19 sec
+2025-08-19 15:18:55,958 [INFO] Recorded 8 answers for 01d2abc4-980b-4f6d-88e9-1ae8b934756d
+2025-08-19 15:18:56,727 [INFO] Gemini call for a4c15c0d-80de-4316-a1bb-8a590f4831be took 3.93 sec
+2025-08-19 15:18:56,729 [INFO] Recorded 8 answers for a4c15c0d-80de-4316-a1bb-8a590f4831be
+2025-08-19 15:18:57,537 [INFO] Gemini call for e6f3437c-e341-4173-8be6-e39da2003e5e took 2.90 sec
+2025-08-19 15:18:57,539 [INFO] Recorded 8 answers for e6f3437c-e341-4173-8be6-e39da2003e5e
+2025-08-19 15:18:58,518 [INFO] Gemini call for 3a3a0811-bcbb-400a-bdb2-197d3055d2a0 took 3.74 sec
+2025-08-19 15:18:58,519 [INFO] Recorded 8 answers for 3a3a0811-bcbb-400a-bdb2-197d3055d2a0
+2025-08-19 15:18:58,648 [INFO] Gemini call for 53a19bfa-37c5-44c1-ac37-48764812ec16 took 3.75 sec
+2025-08-19 15:18:58,649 [INFO] Recorded 8 answers for 53a19bfa-37c5-44c1-ac37-48764812ec16
+2025-08-19 15:18:58,737 [INFO] Gemini call for be738d69-1052-422d-9d8c-d65fd7f84467 took 2.78 sec
+2025-08-19 15:18:58,737 [INFO] Recorded 8 answers for be738d69-1052-422d-9d8c-d65fd7f84467
+2025-08-19 15:18:59,990 [INFO] Gemini call for 8468f1f5-e22e-454b-8080-c3dd036afea1 took 3.26 sec
+2025-08-19 15:18:59,991 [INFO] Recorded 8 answers for 8468f1f5-e22e-454b-8080-c3dd036afea1
+2025-08-19 15:19:00,624 [INFO] Gemini call for c45e5991-d62f-4e28-b115-c6d643dcb6b8 took 3.09 sec
+2025-08-19 15:19:00,625 [INFO] Recorded 8 answers for c45e5991-d62f-4e28-b115-c6d643dcb6b8
+2025-08-19 15:19:02,550 [INFO] Gemini call for 50b7777d-c36b-47db-a5cb-cc38fe9986b6 took 3.90 sec
+2025-08-19 15:19:02,552 [INFO] Recorded 8 answers for 50b7777d-c36b-47db-a5cb-cc38fe9986b6
+2025-08-19 15:19:02,693 [INFO] Gemini call for 35834c24-d12d-424b-8dd5-a0530c26889f took 2.70 sec
+2025-08-19 15:19:02,693 [INFO] Recorded 8 answers for 35834c24-d12d-424b-8dd5-a0530c26889f
+2025-08-19 15:19:02,735 [INFO] Gemini call for 22e192f4-de3e-4058-b047-9a8449989c43 took 4.22 sec
+2025-08-19 15:19:02,736 [INFO] Recorded 8 answers for 22e192f4-de3e-4058-b047-9a8449989c43
+2025-08-19 15:19:02,811 [INFO] Gemini call for 2cef42d9-6a7f-4e75-a964-fff8409867ab took 4.07 sec
+2025-08-19 15:19:02,812 [INFO] Recorded 8 answers for 2cef42d9-6a7f-4e75-a964-fff8409867ab
+2025-08-19 15:19:04,428 [INFO] Gemini call for 279ba6ee-05b8-4546-b406-ba5171d2a8e6 took 3.80 sec
+2025-08-19 15:19:04,429 [INFO] Recorded 8 answers for 279ba6ee-05b8-4546-b406-ba5171d2a8e6
+2025-08-19 15:19:06,546 [INFO] Gemini call for 209a1b71-4466-4423-a253-d6b339d7527d took 3.85 sec
+2025-08-19 15:19:06,547 [INFO] Recorded 8 answers for 209a1b71-4466-4423-a253-d6b339d7527d
+2025-08-19 15:19:06,591 [INFO] Gemini call for 2acdaa03-8c2d-4e5b-b3b5-7b85c243d751 took 4.04 sec
+2025-08-19 15:19:06,591 [INFO] Recorded 8 answers for 2acdaa03-8c2d-4e5b-b3b5-7b85c243d751
+2025-08-19 15:19:07,126 [INFO] Gemini call for 32abbbee-1f09-4fb4-b853-ef9a1e4d2385 took 4.39 sec
+2025-08-19 15:19:07,126 [INFO] Recorded 8 answers for 32abbbee-1f09-4fb4-b853-ef9a1e4d2385
+2025-08-19 15:19:07,535 [INFO] Gemini call for 944e9299-92d9-48ab-878e-82dc566b3e66 took 4.72 sec
+2025-08-19 15:19:07,535 [INFO] Recorded 8 answers for 944e9299-92d9-48ab-878e-82dc566b3e66
+2025-08-19 15:19:08,650 [INFO] Gemini call for 6ab08090-41b4-43e3-aaba-1545ade4dfe5 took 4.22 sec
+2025-08-19 15:19:08,650 [INFO] Recorded 8 answers for 6ab08090-41b4-43e3-aaba-1545ade4dfe5
+2025-08-19 15:19:08,651 [INFO] All QA predictions written → /Users/riteshlokhande/PycharmProjects/Gemini-QA/data/synthetic_qa_payments.jsonl

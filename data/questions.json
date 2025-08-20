@@ -1,0 +1,12 @@
+{
+  "questions": [
+    "Has the payment been approved by an authorized approver?",
+    "Does the payment amount fall within the defined approval threshold?",
+    "Was the approval obtained prior to payment initiation?",
+    "Is the payment status valid for settlement?",
+    "Is the payment method authorized for this vendor?",
+    "Is the vendor included in the approved vendor list?",
+    "Does the payment currency comply with policy requirements?",
+    "Has the approval outcome been recorded correctly?"
+  ]
+}

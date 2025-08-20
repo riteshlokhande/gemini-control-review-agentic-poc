@@ -1,0 +1,9 @@
+question,passed_count,failed_count,not_applicable_count
+Does the payment amount fall within the defined approval threshold?,34,65,1
+Does the payment currency comply with policy requirements?,100,0,0
+Has the approval outcome been recorded correctly?,57,1,42
+Has the payment been approved by an authorized approver?,100,0,0
+Is the payment method authorized for this vendor?,100,0,0
+Is the payment status valid for settlement?,100,0,0
+Is the vendor included in the approved vendor list?,100,0,0
+Was the approval obtained prior to payment initiation?,6,83,11

@@ -1,0 +1,13 @@
+2025-08-19 16:12:31,989 INFO root • Project root: /Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 16:13:28,681 INFO root • Project root: /Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 16:13:28,682 INFO root • Loading JSON records from /Users/riteshlokhande/PycharmProjects/Gemini-QA/data/raw/qa_inference_inputs.json
+2025-08-19 16:21:53,223 INFO root • Project root: /Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 16:21:53,224 INFO root • Loading JSON records from /Users/riteshlokhande/PycharmProjects/Gemini-QA/data/qa_inference_inputs.json
+2025-08-19 16:21:53,225 INFO root • Loading JSONL predictions from /Users/riteshlokhande/PycharmProjects/Gemini-QA/data/qa_predictions.jsonl
+2025-08-19 16:21:53,226 INFO root • Loaded 100 predictions
+2025-08-19 16:21:53,226 INFO root • Merging 100 raw records with 100 predictions
+2025-08-19 16:21:53,226 INFO root • Pivoting 100 merged records into DataFrame
+2025-08-19 16:21:53,227 INFO root • DataFrame shape: (100, 18)
+2025-08-19 16:21:53,227 INFO root • Exporting DataFrame to CSV: /Users/riteshlokhande/PycharmProjects/Gemini-QA/data/output/formatted_report.csv
+2025-08-19 16:21:53,229 INFO root • CSV export complete
+2025-08-19 16:21:53,229 INFO root • format_predictions.py completed successfully

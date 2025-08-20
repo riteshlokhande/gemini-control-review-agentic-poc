@@ -1,0 +1,2 @@
+2025-08-19 14:37:20,791 INFO Starting synthetic data generation; project root=/Users/riteshlokhande/PycharmProjects/Gemini-QA
+2025-08-19 14:37:20,796 INFO Wrote 100 synthetic records to /Users/riteshlokhande/PycharmProjects/Gemini-QA/data/synthetic_payments.json

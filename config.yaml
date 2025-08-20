@@ -1,0 +1,85 @@
+model:
+  provider: google
+  name: gemini-1.5-pro
+  temperature: 0.3
+  max_tokens: 2048
+gemini:
+  api-key: AIzaSyATNNHmdSwQvWAxFZheTkSh-F8RxRsNLuQ
+prompt:
+  fewshot_examples: 3
+  format: 'You are a domain-aware QA assistant. Use the examples below to answer the
+    new question based on its context.
+
+
+    {examples}
+
+
+    New Context: {context}
+
+    Question: {question}
+
+    Answer:
+
+    '
+paths:
+  historic_data: synthetic_payments.json
+  historic_qa_data: synthetic_qa_payments.jsonl
+  few_shot_prompts: few_shot_prompts.jsonl
+  questions_file: questions.json
+  input_file: qa_inference_inputs.json
+  predictions_file: qa_predictions.jsonl
+  formatted_report: ./output/formatted_report.csv
+  summary_report: ./output/summary_report.csv
+
+metadata_fields:
+  - payment_id
+  - amount
+  - payment_method
+  - initiated_by
+  - approved_by
+  - approval_threshold
+  - status
+  - approval_type
+  - approval_outcome
+  - approval_date
+
+generation:
+  payment_count: 100
+  num_questions: 10
+  start_timestamp: '2025-01-01T00:00:00'
+  end_timestamp: '2025-08-18T23:59:59'
+
+controls:
+  # Which approvers are allowed
+  authorized_approvers:
+    - manager001
+    - manager002
+    - director001
+
+  # Which currencies are valid
+  allowed_currencies:
+    - INR
+    - USD
+
+  # Valid end‐states
+  valid_statuses:
+    - Processed
+    - Held
+    - Cancelled
+
+  # Which vendors are allowed per method
+  vendor_whitelist:
+    UPI:
+      - Pixel Dynamics
+      - Acme Supplies
+    RTGS:
+      - Prime Logistics
+    CreditCard:
+      - Global Tech Services
+      - Pixel Dynamics
+
+# Optional user pools
+initiators:
+  - user001
+  - user002
+  - user003
