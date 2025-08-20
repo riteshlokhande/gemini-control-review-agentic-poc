@@ -4,7 +4,7 @@ model:
   temperature: 0.3
   max_tokens: 2048
 gemini:
-  api-key:
+  api-key: <Need Token Here>
 prompt:
   fewshot_examples: 3
   format: 'You are a domain-aware QA assistant. Use the examples below to answer the
